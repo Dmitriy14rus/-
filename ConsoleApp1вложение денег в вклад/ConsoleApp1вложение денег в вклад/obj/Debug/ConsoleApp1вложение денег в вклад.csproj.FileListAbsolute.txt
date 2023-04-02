@@ -1,0 +1,8 @@
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\bin\Debug\ConsoleApp1вложение денег в вклад.exe.config
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\bin\Debug\ConsoleApp1вложение денег в вклад.exe
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\bin\Debug\ConsoleApp1вложение денег в вклад.pdb
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\obj\Debug\ConsoleApp1вложение денег в вклад.csproj.AssemblyReference.cache
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\obj\Debug\ConsoleApp1вложение денег в вклад.csproj.SuggestedBindingRedirects.cache
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\obj\Debug\ConsoleApp1вложение денег в вклад.csproj.CoreCompileInputs.cache
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\obj\Debug\ConsoleApp1вложение денег в вклад.exe
+C:\Users\жданкин\Desktop\Учеба\Проекты по учебе\ConsoleApp1вложение денег в вклад\ConsoleApp1вложение денег в вклад\obj\Debug\ConsoleApp1вложение денег в вклад.pdb
